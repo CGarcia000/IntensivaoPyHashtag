@@ -2,7 +2,7 @@
  Algoritmo
  Passo 1 - Entrar no sistema da empresa (no caso o drive)
  Passo 2 - Navegar no sistema até encontrar a base de dados
- Passo 3 - Exportat a base de vendas
+ Passo 3 - Exportar a base de vendas
  Passo 4 - Calcularia os indicadores (faturamento e quantidade de produtos vendidos
  Passo 5 - Enviar um email para a diretoria com os indicadores
 '''
